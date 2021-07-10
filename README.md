@@ -31,4 +31,7 @@ Uses Node and Express to build the back end (db schema and REST API) of an ecomm
 - sequelize
 - dotenv
 
+## Walkthrough Video
+<a href="https://drive.google.com/file/d/1hLUqBx3qtNcbOiYSUXRV6USa9NodVx-Z/view">Click Here!</a>
+
 
