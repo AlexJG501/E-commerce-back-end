@@ -1,0 +1,25 @@
+{
+  "name": "e-commerce-back-end",
+  "version": "1.0.0",
+  "description": "AS A manager at an internet retail company\r I WANT a back end for my e-commerce website that uses the latest technologies\r SO THAT my company can compete with other e-commerce companies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexJG501/E-commerce-back-end.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexJG501/E-commerce-back-end/issues"
+  },
+  "homepage": "https://github.com/AlexJG501/E-commerce-back-end#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.5"
+  }
+}
